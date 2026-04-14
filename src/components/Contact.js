@@ -14,14 +14,14 @@ const CONTACT_ITEMS = [
   {
     icon: <FiGithub size={18} />,
     label: 'GitHub',
-    value: 'github.com/vaibhavmore',
+    value: 'github.com/VaibhavN17',
     href: personal.github,
     color: '#a78bfa',
   },
   {
     icon: <FiLinkedin size={18} />,
     label: 'LinkedIn',
-    value: 'linkedin.com/in/vaibhavmore',
+    value: 'linkedin.com/in/vaibhav-more-883569397',
     href: personal.linkedin,
     color: '#34d399',
   },

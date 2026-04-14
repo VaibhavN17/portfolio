@@ -9,9 +9,9 @@ export const personal = {
   phone: "+91-8010741843",
   location: "Vaijapur, Maharashtra, India",
   dob: "17 June 2005",
-  github: "https://github.com/vaibhavmore",
-  linkedin: "https://linkedin.com/in/vaibhavmore",
-  resumeUrl: "/cse_084_vaibhav_resume.pdf",
+  github: "https://github.com/VaibhavN17",
+  linkedin: "https://www.linkedin.com/in/vaibhav-more-883569397/",
+  resumeUrl: "/resume/resume.pdf",
 };
 
 export const about = `I'm a Computer Science Engineering student at Sanjivani University with a passion for full-stack development. I've built production-ready applications using Angular, Spring Boot, React, and MySQL — and completed a virtual internship at HCL Technologies where I worked in an Agile team on real-world systems. I love exploring new tech, solving algorithmic challenges on LeetCode, and building things that matter.`;
